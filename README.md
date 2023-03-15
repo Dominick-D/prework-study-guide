@@ -4,10 +4,8 @@
 
 This Prework study guide was built using HTML for structure, CSS for design, and JS for interactivity.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+I built this Website to have a prework study guide.
+I learned how to use HTML, CSS, and JS work together on a web application.
 
 ## Credits
 
